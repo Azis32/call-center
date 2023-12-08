@@ -1,0 +1,7 @@
+Sitemap: https://supercash.cfd/sitemap.xml
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Allow: /
